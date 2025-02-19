@@ -12,3 +12,6 @@ Python 3.4
 
 ## Author
 David Zuokumor
+
+## Extra Notes
+This code has been recently reviewed and is confirmed to be functional
